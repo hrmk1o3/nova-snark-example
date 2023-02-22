@@ -1,0 +1,17 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "cSpell.words": [
+    "arity",
+    "bellperson",
+    "bincode",
+    "CSSNARK",
+    "flate",
+    "Merkle",
+    "preimage",
+    "typenum"
+  ]
+}
